@@ -4,5 +4,3 @@ def inText(text):
         return print('Yes')
     else: 
         return print('No')
-
-inText('Asas')
